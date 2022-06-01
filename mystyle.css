@@ -1,6 +1,5 @@
 .title {
   background-color: rgb(52, 145, 120);
-
   margin-top: 0px;
   padding-bottom: 20px;
   margin-right: 0px;
@@ -38,7 +37,7 @@
   text-decoration: none;
   color: rgb(15, 41, 34);
 }
-.pointer a:hover {
+.pointer .fa:hover {
   text-decoration: underline;
 }
 .pointer.fa {
@@ -63,8 +62,12 @@
   padding-top: 10px;
   padding-left: 40px;
   padding-right: 40px;
-  padding-bottom: 10px; 
+  padding-bottom: 5px;
 }
 .place {
-  padding-bottom: 25px;
+  padding-bottom: 10px;
+  margin-top: 5px;
+}
+.part h4 {
+  margin-bottom: 0px;
 }
