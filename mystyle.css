@@ -1,0 +1,63 @@
+.title {
+  background-color: rgb(52, 145, 120);
+
+  margin-top: 0px;
+  padding-bottom: 20px;
+  margin-right: 0px;
+  width: 100%;
+}
+.main-title {
+  color: rgb(15, 41, 34);
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+  padding-top: 50px;
+}
+.row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+}
+.email {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(15, 41, 34);
+  padding-left: 25%;
+}
+.linkedin {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 0px;
+  padding-right: 25%;
+}
+.linkedin a {
+  text-decoration: none;
+  color: rgb(15, 41, 34);
+}
+.linkedin a:hover {
+  text-decoration: underline;
+}
+.linkedin .fa {
+  font-size: 20px;
+}
+.main-contain {
+  margin-top: 0;
+  padding-top: 0px;
+  padding: 0 50px 50px 50px;
+  width: 100%;
+  border-top: 1px solid rgb(18, 18, 65);
+  background-color: rgb(69, 198, 166);
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(15, 41, 34);
+}
+.part:hover {
+  background-color: rgb(52, 145, 120);
+  padding-top: 0px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
